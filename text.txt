@@ -1,5 +1,5 @@
 To run composer:
-php composer.phar
+composer
 
 
 Run mamp from sampleapp/public
